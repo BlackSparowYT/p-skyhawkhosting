@@ -1,0 +1,11 @@
+*.zip
+*(Conflicted copy * by LAPTOP-FRJ).*
+iplog.txt
+credentials.php
+*errors*
+test-*/
+test-*/*
+test-*.php
+files/images/test-*/*
+dashboard/companies/*
+files/icons/fa/
