@@ -245,11 +245,11 @@ main { z-index: 100; }
 
 .content { background-color: var(--bg-clr); grid-column: 2; grid-row: 2; display: block; width: 100%; min-height: calc(100vh - var(--navbar-height)); position: relative; z-index: 50; }
 
-.hero.hero--homepage { min-height: 60vh; display: flex; align-items: center; justify-content: center; flex-direction: column; background-color: var(--bg-clr-dark); background-image: linear-gradient(90deg, rgba(27,27,29,0.7) 10%, rgba(27,27,29,0.5) 30%, rgba(27,27,29,0.5) 70%, rgba(27,27,29,0.7) 90%), url(../images/bg-hero.png); background-size: cover; background-position: center; }
+.hero.hero--homepage { min-height: 60vh; display: flex; align-items: center; justify-content: center; flex-direction: column; background-color: var(--bg-clr-dark); background-image: linear-gradient(90deg, rgba(27,27,29,0.7) 10%, rgba(27,27,29,0.5) 30%, rgba(27,27,29,0.5) 70%, rgba(27,27,29,0.7) 90%), url(../images/bg-hero.jpg); background-size: cover; background-position: center; }
 .hero.hero--homepage h1 { font-size: var(--fs-x-larger); color: var(--secondary); text-align: center; font-family: var(--font-secondary); letter-spacing: 2px; line-height: 90%; }
 .hero.hero--homepage p { font-size: var(--fs-smaller); color: var(--secondary); text-align: center; font-weight: 600; }
 
-.hero.hero--subpage { min-height: 40vh; display: flex; align-items: center; justify-content: center; flex-direction: column; background-color: var(--bg-clr-dark); background-image: linear-gradient(90deg, rgba(27,27,29,0.7) 10%, rgba(27,27,29,0.5) 30%, rgba(27,27,29,0.5) 70%, rgba(27,27,29,0.7) 90%), url(../images/bg-hero.png); background-size: cover; background-position: center; }
+.hero.hero--subpage { min-height: 40vh; display: flex; align-items: center; justify-content: center; flex-direction: column; background-color: var(--bg-clr-dark); background-image: linear-gradient(90deg, rgba(27,27,29,0.7) 10%, rgba(27,27,29,0.5) 30%, rgba(27,27,29,0.5) 70%, rgba(27,27,29,0.7) 90%), url(../images/bg-hero.jpg); background-size: cover; background-position: center; }
 .hero.hero--subpage h1 { font-size: var(--fs-x-larger); color: var(--secondary); text-align: center; font-family: var(--font-secondary); letter-spacing: 2px; line-height: 90%; }
 .hero.hero--subpage p { font-size: var(--fs-smaller); color: var(--secondary); text-align: center; font-weight: 600; }
 
